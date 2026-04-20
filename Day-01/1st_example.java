@@ -1,4 +1,4 @@
-```java
+
 class Car {
     String brand;
     int year;
@@ -14,4 +14,4 @@ public class Main {
         myCar.displayInfo(); 
     }
 }
-```
+
