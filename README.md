@@ -7,7 +7,7 @@
 https://youtu.be/lWFzm8qIR1c?si=H5U8v8RDIWxkBxzG  
 
 💻 **Example Code:**  
-IT-24037_first_30_days_plan/Day-01/README.md at main · ratulhasansaion-debug/IT-24037_first_30_days_plan https://share.google/m0AIQvCu3PZgA9EQi
+https://share.google/m0AIQvCu3PZgA9EQi
 ---
 
 ## 📅 Day 2 — 20 April 2026
