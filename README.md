@@ -1,4 +1,4 @@
-#🚀 IT_24037 - First 30 Days Plan
+🚀 IT_24037 - First 30 Days Plan
 
 ## 📅 Day 1 — 19 April 2026
 > ### 📌 Topic: Creating Class & Object  
