@@ -1,4 +1,4 @@
-```java
+
 class SmartPhone {
     String model;
     int storageGB;
@@ -16,4 +16,4 @@ public class Main {
         System.out.println("Phone 2: " + phone2.model + " with " + phone2.storageGB + "GB");
     }
 }
-```
+
