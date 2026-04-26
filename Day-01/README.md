@@ -1,6 +1,6 @@
 Example 1: The Car Class
 ```java
-class Car {
+class Car { 
     String brand;
     int year;
     void displayInfo() {
