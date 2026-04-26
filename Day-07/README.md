@@ -1,5 +1,5 @@
 # EXample 01
-'''java
+```java
 class CPU {
     double price = 50000;
     class Processor {
@@ -23,7 +23,7 @@ public class Main {
 ```
 ---
 # Example 02
-``` java
+```java
 class Motherboard {
     static String model = "ASUS ROG";
     static class USB {
