@@ -28,7 +28,7 @@ public class Main {
 }
 ```
 ---
-#Example 02
+# Example 02
 ```java
 class Bank {
     void getInterestRate() {
