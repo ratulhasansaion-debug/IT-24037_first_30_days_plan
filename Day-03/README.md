@@ -20,8 +20,10 @@ public class Main {
         s2.display();
     }
 }
+```
 ___
 # No arg Constructor
+```java
 
 class Student {
     String name;
@@ -41,4 +43,5 @@ public class Main {
         s1.display();
     }
 }
+```
 
