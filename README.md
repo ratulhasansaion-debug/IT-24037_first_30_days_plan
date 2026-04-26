@@ -7,7 +7,7 @@
 https://youtu.be/lWFzm8qIR1c?si=H5U8v8RDIWxkBxzG  
 
 💻 **Example Code:**  
-https://share.google/nQLSpc2EnOrLBmEnt
+https://github.com/ratulhasansaion-debug/IT-24037_first_30_days_plan/edit/main/Day-01/README.md
 
 ---
 
