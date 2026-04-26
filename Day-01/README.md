@@ -1,5 +1,4 @@
 Example 1: The Car Class
----
 ```java
 class Car {
     String brand;
@@ -18,9 +17,8 @@ public class Main {
     }
 }
 ```
----
 Example 2: The SmartPhone Class
----
+
 ```java
 class SmartPhone {
     String model;
