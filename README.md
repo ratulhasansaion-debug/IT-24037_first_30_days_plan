@@ -39,7 +39,7 @@ https://youtu.be/acfR5vRTZvc?si=Fv4fdrBSHHOw9cgf
 🎥 **Video:**  
 https://youtu.be/j_VA2Rp6jM0?si=63JiXHhglslUoocR
 💻 **Example Code:**  
- https://share.google/tdtZYr3ffLkQv6KMn
+https://github.com/ratulhasansaion-debug/IT-24037_first_30_days_plan/blob/main/Day-04/README.md
 
 ---
 
@@ -50,7 +50,7 @@ https://youtu.be/j_VA2Rp6jM0?si=63JiXHhglslUoocR
 https://youtu.be/bLke13zY4rg?si=GBkdaIaVb1wMRGd5 
 
 💻 **Example Code:**  
- https://share.google/tdtZYr3ffLkQv6KMn
+ https://github.com/ratulhasansaion-debug/IT-24037_first_30_days_plan/blob/main/Day-05/README.md
 
 ---
 
@@ -61,7 +61,7 @@ https://youtu.be/bLke13zY4rg?si=GBkdaIaVb1wMRGd5
 https://youtu.be/HZUUYnIZO_0?si=RoEc1Wbh03Zf7bBc  
 
 💻 **Example Code:**  
-https://youtu.be/1SXyi3DK-88?si=i_Ihqu8DyBtFbNjX
+https://github.com/ratulhasansaion-debug/IT-24037_first_30_days_plan/blob/main/Day-06/README.md
 
 ---
 
@@ -72,7 +72,7 @@ https://youtu.be/1SXyi3DK-88?si=i_Ihqu8DyBtFbNjX
 https://youtu.be/lsJ9QjJPbx8?si=oFcYbaiwdoJDKufa
 
 💻 **Example Code:**  
- https://share.google/tdtZYr3ffLkQv6KMn
+ https://github.com/ratulhasansaion-debug/IT-24037_first_30_days_plan/blob/main/Day-07/README.md
 
 ---
 
