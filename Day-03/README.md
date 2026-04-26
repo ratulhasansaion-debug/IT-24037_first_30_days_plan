@@ -20,9 +20,9 @@ public class Main {
         s2.display();
     }
 }
----
+
 # No arg Constructor
-```java
+
 class Student {
     String name;
     int roll;
