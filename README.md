@@ -52,7 +52,7 @@ https://youtu.be/bLke13zY4rg?si=GBkdaIaVb1wMRGd5
 
 💻 **Example Code:**  
  https://github.com/ratulhasansaion-debug/IT-24037_first_30_days_plan/blob/main/Day-05/README.md
-
+ 
 ---
 
 ## 📅 Day 6 — 24 April 2026
@@ -84,7 +84,8 @@ https://youtu.be/lsJ9QjJPbx8?si=oFcYbaiwdoJDKufa
 https://youtu.be/TDHaeHAlPFg?si=NuD_Uw49RXIAIcJn
 
 💻 **Example Code:**  
-https://github.com/ratulhasansaion-debug/IT-24037_first_30_days_plan/edit/main/Day-01/README.md
+https://github.com/ratulhasansaion-debug/IT-24037_first_30_days_plan/blob/main/Day-08/README.md
+
 ---
 
 ## 📅 Day 9 — 27 April 2026
@@ -94,7 +95,7 @@ https://github.com/ratulhasansaion-debug/IT-24037_first_30_days_plan/edit/main/D
 https://youtu.be/q-5D9Z9BCVI?si=4oM9yMgepVnbK04d
 
 💻 **Example Code:**  
-https://github.com/ratulhasansaion-debug/IT-24037_first_30_days_plan/edit/main/Day-01/README.md
+https://github.com/ratulhasansaion-debug/IT-24037_first_30_days_plan/blob/main/Day-09/README.md
 
 ---
 ## 📅 Day 10 — 28 April 2026
@@ -103,7 +104,7 @@ https://github.com/ratulhasansaion-debug/IT-24037_first_30_days_plan/edit/main/D
 https://youtu.be/XDw-BkAZYmY?si=ySeBT6GU5J44T6VL
 
 💻 **Example Code:**  
-https://github.com/ratulhasansaion-debug/IT-24037_first_30_days_plan/edit/main/Day-01/README.md
+https://github.com/ratulhasansaion-debug/IT-24037_first_30_days_plan/tree/main/Day-10
 
 ---
 ## 📅 Day 11 — 29 April 2026
@@ -113,6 +114,7 @@ https://github.com/ratulhasansaion-debug/IT-24037_first_30_days_plan/edit/main/D
 https://youtu.be/PccU1wAdnlM?si=ZJf0h30rAUhpoL5Z
 
 💻 **Example Code:**  
-https://github.com/ratulhasansaion-debug/IT-24037_first_30_days_plan/edit/main/Day-01/README.md
+https://github.com/ratulhasansaion-debug/IT-24037_first_30_days_plan/blob/main/Day-11/README.md
+
 ---
 
