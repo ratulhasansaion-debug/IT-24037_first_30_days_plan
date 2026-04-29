@@ -1,5 +1,5 @@
 Example 1: The Car Class
-```java
+```Java
 class Car { 
     String brand;
     int year;
@@ -18,8 +18,7 @@ public class Main {
 }
 ```
 Example 2: The SmartPhone Class
-
-```java
+```Java
 class SmartPhone {
     String model;
     int storageGB;
@@ -37,4 +36,5 @@ public class Main {
         System.out.println("Phone 2: " + phone2.model + " with " + phone2.storageGB + "GB");
     }
 }
+
 ```
