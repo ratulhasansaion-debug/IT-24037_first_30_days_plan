@@ -18,7 +18,7 @@ https://github.com/ratulhasansaion-debug/IT-24037_first_30_days_plan/edit/main/D
 https://youtu.be/HZUUYnIZO_0?si=RoEc1Wbh03Zf7bBc  
 
 💻 **Example Code:**  
- https://share.google/tdtZYr3ffLkQv6KMn
+https://github.com/ratulhasansaion-debug/IT-24037_first_30_days_plan/edit/main/Day-02/README.md
 
 ---
 
@@ -29,7 +29,7 @@ https://youtu.be/HZUUYnIZO_0?si=RoEc1Wbh03Zf7bBc
 https://youtu.be/acfR5vRTZvc?si=Fv4fdrBSHHOw9cgf
 
 💻 **Example Code:**  
- https://share.google/tdtZYr3ffLkQv6KMn
+https://github.com/ratulhasansaion-debug/IT-24037_first_30_days_plan/blob/main/Day-03/README.md
 
 ---
 
