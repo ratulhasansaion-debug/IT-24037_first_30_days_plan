@@ -1,4 +1,4 @@
-#Example 1: Basic File Read and Write (IO Package)
+# Example 1: Basic File Read and Write (IO Package)
 ---
 ```java
 import java.io.File;
@@ -30,7 +30,7 @@ public class BasicFileIO {
 }
 ```
 ---
-#Example 2: Modern File Handling (NIO Package)
+# Example 2: Modern File Handling (NIO Package)
 ```java
 import java.nio.file.Files;
 import java.nio.file.Path;
